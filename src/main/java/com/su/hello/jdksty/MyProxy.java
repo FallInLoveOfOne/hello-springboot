@@ -9,6 +9,11 @@ import java.lang.reflect.Proxy;
 import com.su.hello.proxy.Man;
 import com.su.hello.proxy.Person;
 
+/**
+ * 修改时间20190502
+ * @author SS
+ *
+ */
 public class MyProxy {
     public interface IHello{
         void sayHello();
